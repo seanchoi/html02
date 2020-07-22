@@ -1,0 +1,44 @@
+.wrapper {
+    width: 700px;
+    min-height: 500px;
+    background-color: khaki;
+    padding:25px 15px 25px 15px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    display: inline-block;
+    margin-bottom: 10px;;
+}
+
+.img_top {
+    display: inline-block;
+    width:100px;
+    height:50px;
+    background-color: white;
+}
+
+.block-content {
+    width: 700px;
+    min-height:500px;
+    display: block;
+}
+
+.blocks {
+    width: 110px;
+    height: 110px;
+    display:inline-block;
+    border: 2px solid black;
+    background-color: skyblue;
+    padding:10px;
+}
+
+.blocks_pink {
+    width: 110px;
+    height: 110px;
+    display:inline-block;
+    border: 2px solid black;
+    background-color: pink;
+    padding:10px;
+}
